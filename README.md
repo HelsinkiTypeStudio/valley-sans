@@ -1,4 +1,4 @@
-![Valley Sans overview](documentation/valley-sans.jpg)
+![Valley Sans overview](documentation/valley-sans.webp)
 
 # Valley Sans
 
@@ -8,7 +8,7 @@ The design draws from Tove Jansson's original lettering, the typographic landsca
 
 The Moomins, beloved characters created by Tove Jansson, are known for wit, warmth, and timeless charm. Valley Sans translates that spirit into a contemporary type system for brand communication, publishing, and digital interfaces while preserving a distinct connection to the Moomin visual world.
 
-![Valley Sans sample](documentation/valley-sans-flotsam.jpg)
+![Valley Sans sample](documentation/valley-sans-flotsam.webp)
 
 A central challenge in developing the typeface was that Jansson's lettering references are primarily uppercase. To build a complete contemporary family, the lowercase and broader stylistic system were developed through archival research into compatible historical models. The design team focused on late-1800s American modern gothic typefaces, chosen for their warmth, practicality, and expressive charm.
 
@@ -16,13 +16,13 @@ This historical direction also reflects the archipelago setting connected to the
 
 The result is a typeface rooted in heritage and storytelling, designed for clarity, rhythm, and usability across styles.
 
-![Valley Sans character mix](documentation/valley-sans-character-mix.jpg)
+![Valley Sans character mix](documentation/valley-sans-character-mix.webp)
 
 Valley Sans is delivered as a variable family with Weight and Italic axes, covering styles from Thin to Black in both roman and italic. This structure provides a broad expressive range while keeping behavior consistent across editorial and interface contexts.
 
 The family is currently developed for Latin-script use and is intended to support a wide range of contemporary brand and publishing needs in digital and print environments.
 
-![Valley Sans styles](documentation/valley-sans-styles.jpg)
+![Valley Sans styles](documentation/valley-sans-styles.webp)
 
 Images courtesy of Moomin Characters.
 
