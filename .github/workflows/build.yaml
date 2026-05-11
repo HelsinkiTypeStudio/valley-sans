@@ -12,6 +12,10 @@ on:
 
 permissions: write-all
 
+# No GitHub Pages job: proofs and reports stay in the workflow artifact only.
+# To publish a site again, enable Pages on the repo and copy the deploy job from
+# https://github.com/googlefonts/googlefonts-project-template/blob/main/.github/workflows/build.yaml
+
 jobs:
   build:
     name: Build and test
@@ -66,11 +70,6 @@ jobs:
       run: make proof
     - name: Set up test result site
       run: cp scripts/index.html out/index.html
-    - name: Collect deployment assets
-      if: ${{ github.ref_name == github.event.repository.default_branch }}
-      uses: actions/upload-pages-artifact@v5
-      with:
-        path: ./out
     - name: Archive artifacts
       uses: actions/upload-artifact@v6
       with:
@@ -80,22 +79,6 @@ jobs:
           out
     outputs:
       zip_name: ${{ env.ZIP_NAME }}
-
-  deploy:
-    name: Deploy results to GitHub Pages
-    if: ${{ github.ref_name == github.event.repository.default_branch }}
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
 
   # There are two ways a release can be created: either by pushing a tag, or by
   # creating a release from the GitHub UI. Pushing a tag does not automatically
