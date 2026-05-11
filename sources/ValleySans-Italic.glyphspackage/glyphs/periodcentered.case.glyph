@@ -1,0 +1,78 @@
+{
+glyphname = periodcentered.case;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-68,0);
+ref = hyphen.case;
+}
+);
+};
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+alignment = -1;
+pos = (0,70);
+ref = periodcentered;
+}
+);
+width = 156;
+},
+{
+background = {
+shapes = (
+{
+ref = hyphen.case;
+}
+);
+};
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+alignment = -1;
+pos = (0,112);
+ref = periodcentered;
+}
+);
+width = 364;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+alignment = -1;
+pos = (22,112);
+ref = periodcentered;
+}
+);
+width = 370;
+},
+{
+background = {
+shapes = (
+{
+pos = (9,0);
+ref = hyphen.case;
+}
+);
+};
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+alignment = -1;
+pos = (13,70);
+ref = periodcentered;
+}
+);
+width = 158;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

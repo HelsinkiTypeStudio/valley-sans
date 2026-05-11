@@ -1,0 +1,146 @@
+{
+glyphname = quotedblright;
+kernLeft = KO_quotedblright;
+kernRight = KO_quotedblright;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (187,0);
+ref = quoteright;
+}
+);
+width = 458;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (269,-1);
+ref = quoteright;
+}
+);
+width = 646;
+},
+{
+associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+layerId = "341D8D4A-8556-455F-B9DF-EAE9C6FE8A72";
+name = "29. Sep 25 at 18.04";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (170,0);
+ref = quoteright;
+}
+);
+width = 441;
+},
+{
+associatedMasterId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+layerId = "643F0293-32A6-4B4F-81D9-BE24EAA9706C";
+name = "29. Sep 25 at 18.04";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (269,0);
+ref = quoteright;
+}
+);
+width = 646;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+alignment = -1;
+pos = (0,-1);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (269,-1);
+ref = quoteright;
+}
+);
+width = 644;
+},
+{
+associatedMasterId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+layerId = "C1801B2F-AA62-49CE-B59A-33F2A74DF019";
+name = "29. Sep 25 at 18.04";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (269,0);
+ref = quoteright;
+}
+);
+width = 646;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (187,0);
+ref = quoteright;
+}
+);
+width = 458;
+},
+{
+associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+layerId = "A5BBD215-05CF-45DD-9EE2-5C53227AE33F";
+name = "29. Sep 25 at 18.04";
+shapes = (
+{
+alignment = -1;
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (170,0);
+ref = quoteright;
+}
+);
+width = 441;
+}
+);
+metricLeft = quoteright;
+metricRight = quoteright;
+unicode = 8221;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

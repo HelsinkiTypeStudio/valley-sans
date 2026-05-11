@@ -1,0 +1,60 @@
+{
+glyphname = odieresis;
+kernLeft = KO_odieresis;
+kernRight = KO_o;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (67,0);
+ref = dieresiscomb;
+}
+);
+width = 598;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (22,0);
+ref = dieresiscomb;
+}
+);
+width = 664;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (13,0);
+ref = dieresiscomb;
+}
+);
+width = 664;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (54,0);
+ref = dieresiscomb;
+}
+);
+width = 598;
+}
+);
+unicode = 246;
+}

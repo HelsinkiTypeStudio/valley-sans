@@ -1,0 +1,58 @@
+{
+glyphname = Oslashacute;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (294,200);
+ref = acutecomb;
+}
+);
+width = 796;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (277,200);
+ref = acutecomb;
+}
+);
+width = 840;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (345,200);
+ref = acutecomb;
+}
+);
+width = 796;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (325,200);
+ref = acutecomb;
+}
+);
+width = 833;
+}
+);
+unicode = 510;
+}

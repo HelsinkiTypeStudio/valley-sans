@@ -1,0 +1,155 @@
+{
+glyphname = bar.case;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,-80,l),
+(231,213,o),
+(231,512,o),
+(233,805,c),
+(186,800,l),
+(188,507,o),
+(188,208,o),
+(186,-85,c)
+);
+}
+);
+width = 419;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(299,-80,l),
+(289,217,o),
+(289,513,o),
+(299,810,c),
+(148,800,l),
+(158,503,o),
+(158,207,o),
+(148,-90,c)
+);
+}
+);
+width = 447;
+},
+{
+associatedMasterId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+layerId = "552BEA20-24B6-4BEC-B9D7-713D20F67326";
+name = "22. Aug 25 at 15.09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,-80,l),
+(189,800,l),
+(47,800,l),
+(47,-80,l)
+);
+}
+);
+width = 236;
+},
+{
+associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+layerId = "1D98A14B-4CEB-4225-A357-09F52C65A63C";
+name = "22. Aug 25 at 15.09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,-80,l),
+(117,800,l),
+(75,800,l),
+(75,-80,l)
+);
+}
+);
+width = 192;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,-80,l),
+(281,217,o),
+(338,513,o),
+(406,810,c),
+(253,800,l),
+(205,503,o),
+(148,207,o),
+(80,-90,c)
+);
+}
+);
+width = 447;
+},
+{
+associatedMasterId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+layerId = "05B6EC57-2903-4FA5-92D4-D6FA940B4D6B";
+name = "22. Aug 25 at 15.09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(189,-80,l),
+(189,800,l),
+(47,800,l),
+(47,-80,l)
+);
+}
+);
+width = 236;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(167,-80,l),
+(222,213,o),
+(280,512,o),
+(339,805,c),
+(291,800,l),
+(236,507,o),
+(178,208,o),
+(119,-85,c)
+);
+}
+);
+width = 419;
+},
+{
+associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+layerId = "69104500-346C-446E-85DE-9C79407B3472";
+name = "22. Aug 25 at 15.09";
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,-80,l),
+(117,800,l),
+(75,800,l),
+(75,-80,l)
+);
+}
+);
+width = 192;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

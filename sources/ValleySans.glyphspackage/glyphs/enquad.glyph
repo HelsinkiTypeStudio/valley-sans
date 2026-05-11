@@ -1,0 +1,29 @@
+{
+glyphname = enquad;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+width = 500;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+width = 500;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+width = 500;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+width = 500;
+}
+);
+metricWidth = "=500";
+unicode = 8192;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

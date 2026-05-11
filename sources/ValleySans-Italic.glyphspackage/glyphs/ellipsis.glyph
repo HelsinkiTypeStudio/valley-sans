@@ -1,0 +1,88 @@
+{
+glyphname = ellipsis;
+kernLeft = KO_ellipsis;
+kernRight = KO_ellipsis;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+alignment = -1;
+pos = (248,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (495,0);
+ref = period;
+}
+);
+width = 717;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+alignment = 1;
+pos = (362,0);
+ref = period;
+},
+{
+alignment = 1;
+pos = (724,0);
+ref = period;
+}
+);
+width = 1086;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+alignment = 1;
+pos = (368,0);
+ref = period;
+},
+{
+alignment = 1;
+pos = (736,0);
+ref = period;
+}
+);
+width = 1104;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+alignment = -1;
+pos = (248,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (495,0);
+ref = period;
+}
+);
+width = 717;
+}
+);
+unicode = 8230;
+}

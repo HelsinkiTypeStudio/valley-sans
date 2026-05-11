@@ -1,0 +1,274 @@
+{
+glyphname = iacute_j.loclNLD;
+layers = (
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (35,0);
+ref = acutecomb;
+},
+{
+pos = (358,0);
+ref = jdotless;
+},
+{
+pos = (376,0);
+ref = acutecomb;
+}
+);
+width = 699;
+},
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (3,0);
+ref = acutecomb;
+},
+{
+pos = (225,0);
+ref = jdotless;
+},
+{
+pos = (214,0);
+ref = acutecomb;
+}
+);
+width = 427;
+},
+{
+associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+layerId = "B4C553A8-4235-4651-B44E-949B42B54A48";
+name = "Italic Light";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (3,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (203,0);
+ref = acutecomb;
+}
+);
+width = 416;
+},
+{
+associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+layerId = "46B1C648-E2EB-4BB9-81A7-EA8BCE89D97C";
+name = "Black Italic";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (3,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (203,0);
+ref = acutecomb;
+}
+);
+width = 416;
+},
+{
+associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+layerId = "63D74B2E-608C-4E25-93F3-1AFE82EAD276";
+name = "Expanded Light";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (3,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (203,0);
+ref = acutecomb;
+}
+);
+width = 416;
+},
+{
+associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+layerId = "B90964D2-C51C-49F3-828A-43C441DEB10D";
+name = "Expanded Black";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (3,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (203,0);
+ref = acutecomb;
+}
+);
+width = 416;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (51,0);
+ref = acutecomb;
+},
+{
+pos = (359,0);
+ref = jdotless;
+},
+{
+pos = (393,0);
+ref = acutecomb;
+}
+);
+width = 700;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (16,0);
+ref = acutecomb;
+},
+{
+pos = (224,0);
+ref = jdotless;
+},
+{
+pos = (226,0);
+ref = acutecomb;
+}
+);
+width = 426;
+},
+{
+associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+layerId = "C5F45637-BCD9-4C11-8286-5F7D0C576A3A";
+name = "Italic Light";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (16,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (216,0);
+ref = acutecomb;
+}
+);
+width = 416;
+},
+{
+associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+layerId = "E15C4660-8426-4422-9668-394C76F3FF36";
+name = "Black Italic";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (16,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (216,0);
+ref = acutecomb;
+}
+);
+width = 416;
+},
+{
+associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+layerId = "BC8BFD51-A507-4CCE-9B68-B310FF693350";
+name = "Expanded Light";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (16,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (216,0);
+ref = acutecomb;
+}
+);
+width = 416;
+},
+{
+associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+layerId = "38FD7BE8-63AA-48B1-B1B0-292E33C0A9A9";
+name = "Expanded Black";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (16,0);
+ref = acutecomb;
+},
+{
+pos = (214,0);
+ref = jdotless;
+},
+{
+pos = (216,0);
+ref = acutecomb;
+}
+);
+width = 416;
+}
+);
+unicode = 57650;
+}

@@ -1,0 +1,61 @@
+{
+color = 0;
+glyphname = etilde;
+kernLeft = KO_odieresis;
+kernRight = KO_eacute;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (55,0);
+ref = tildecomb;
+}
+);
+width = 582;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (48,0);
+ref = tildecomb;
+}
+);
+width = 647;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (44,0);
+ref = tildecomb;
+}
+);
+width = 648;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (55,0);
+ref = tildecomb;
+}
+);
+width = 581;
+}
+);
+unicode = 7869;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = schwa;
+kernLeft = KO_schwa;
+kernRight = KO_o;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+angle = 180;
+pos = (582,520);
+ref = e;
+}
+);
+width = 582;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+angle = 180;
+pos = (647,520);
+ref = e;
+}
+);
+width = 647;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+angle = 180;
+pos = (648,520);
+ref = e;
+}
+);
+width = 648;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+angle = 180;
+pos = (581,520);
+ref = e;
+}
+);
+width = 581;
+}
+);
+unicode = 601;
+}

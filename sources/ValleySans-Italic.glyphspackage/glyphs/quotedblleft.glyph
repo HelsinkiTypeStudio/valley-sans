@@ -1,0 +1,60 @@
+{
+glyphname = quotedblleft;
+kernLeft = KO_quotedblleft;
+kernRight = KO_quotedblleft;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+angle = 180;
+pos = (478,1251);
+ref = quotedblright;
+}
+);
+width = 458;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+angle = 180;
+pos = (646,1103);
+ref = quotedblright;
+}
+);
+width = 646;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+angle = 180;
+pos = (765,1103);
+ref = quotedblright;
+}
+);
+width = 646;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+angle = 180;
+pos = (621,1251);
+ref = quotedblright;
+}
+);
+width = 459;
+}
+);
+metricLeft = quoteleft;
+metricRight = quoteleft;
+unicode = 8220;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

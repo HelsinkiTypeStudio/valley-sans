@@ -1,0 +1,185 @@
+{
+export = 0;
+glyphname = "_part.ascender-d";
+layers = (
+{
+anchors = (
+{
+name = connect;
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (-82,520);
+}
+);
+shapes = (
+{
+pos = (-82,0);
+ref = "_part.ascender-b";
+}
+);
+};
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(55,0,l),
+(51,126,o),
+(50,242,o),
+(50,358,cs),
+(50,482,o),
+(51,606,o),
+(55,740,c),
+(-5,740,l),
+(-1,606,o),
+(0,482,o),
+(0,358,cs),
+(0,242,o),
+(-1,126,o),
+(-5,0,c)
+);
+}
+);
+width = 132;
+},
+{
+anchors = (
+{
+name = connect;
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (-72,520);
+}
+);
+shapes = (
+{
+pos = (-72,0);
+ref = "_part.ascender-b";
+}
+);
+};
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(217,0,l),
+(207,130,o),
+(207,241,o),
+(210,360,cs),
+(211,480,o),
+(213,609,o),
+(220,740,c),
+(-10,740,l),
+(-2,606,o),
+(0,483,o),
+(0,360,cs),
+(0,243,o),
+(-2,127,o),
+(-10,0,c)
+);
+}
+);
+width = 282;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (-50,0);
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (-72,520);
+}
+);
+shapes = (
+{
+pos = (-72,0);
+ref = "_part.ascender-b";
+}
+);
+};
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,0,l),
+(182,130,o),
+(203,241,o),
+(229,360,cs),
+(254,480,o),
+(281,609,o),
+(313,740,c),
+(83,740,l),
+(65,606,o),
+(43,483,o),
+(19,360,cs),
+(-3,243,o),
+(-28,127,o),
+(-61,0,c)
+);
+}
+);
+width = 282;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (-50,0);
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (-81,520);
+}
+);
+shapes = (
+{
+pos = (-81,0);
+ref = "_part.ascender-b";
+}
+);
+};
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,0,l),
+(26,126,o),
+(48,242,o),
+(70,358,cs),
+(94,482,o),
+(119,606,o),
+(149,740,c),
+(89,740,l),
+(67,606,o),
+(44,482,o),
+(20,358,cs),
+(-2,242,o),
+(-26,126,o),
+(-55,0,c)
+);
+}
+);
+width = 133;
+}
+);
+metricRight = l;
+}

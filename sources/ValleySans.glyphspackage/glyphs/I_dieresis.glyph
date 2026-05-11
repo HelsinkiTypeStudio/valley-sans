@@ -1,0 +1,58 @@
+{
+glyphname = Idieresis;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-107,200);
+ref = dieresiscomb;
+}
+);
+width = 250;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-110,200);
+ref = dieresiscomb;
+}
+);
+width = 401;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-81,200);
+ref = dieresiscomb;
+}
+);
+width = 401;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-82,200);
+ref = dieresiscomb;
+}
+);
+width = 250;
+}
+);
+unicode = 207;
+}

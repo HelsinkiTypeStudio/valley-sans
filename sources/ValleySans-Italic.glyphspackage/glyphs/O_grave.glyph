@@ -1,0 +1,60 @@
+{
+glyphname = Ograve;
+kernLeft = KO_O;
+kernRight = KO_O;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (223,200);
+ref = gravecomb;
+}
+);
+width = 796;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (149,200);
+ref = gravecomb;
+}
+);
+width = 827;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (164,200);
+ref = gravecomb;
+}
+);
+width = 827;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (238,200);
+ref = gravecomb;
+}
+);
+width = 796;
+}
+);
+unicode = 210;
+}

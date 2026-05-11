@@ -1,0 +1,199 @@
+{
+glyphname = idotless;
+kernLeft = KO_n;
+kernRight = KO_u;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (107,0);
+},
+{
+name = ogonek;
+pos = (137,0);
+},
+{
+name = top;
+pos = (107,520);
+}
+);
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = n;
+}
+);
+};
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,0,l),
+(133,85,o),
+(132,168,o),
+(132,252,cs),
+(132,341,o),
+(133,430,o),
+(137,520,c),
+(77,520,l),
+(81,430,o),
+(82,341,o),
+(82,252,cs),
+(82,168,o),
+(81,85,o),
+(77,0,c)
+);
+}
+);
+width = 214;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (287,0);
+},
+{
+name = top;
+pos = (178,520);
+}
+);
+background = {
+shapes = (
+{
+pos = (-5,0);
+ref = n;
+}
+);
+};
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,0,l),
+(282,73,o),
+(280,165,o),
+(280,258,cs),
+(279,352,o),
+(282,447,o),
+(287,520,c),
+(62,520,l),
+(67,447,o),
+(70,354,o),
+(70,260,cs),
+(70,167,o),
+(67,73,o),
+(62,0,c)
+);
+}
+);
+width = 349;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (127,0);
+},
+{
+name = ogonek;
+pos = (236,0);
+},
+{
+name = top;
+pos = (229,520);
+}
+);
+background = {
+shapes = (
+{
+pos = (-5,0);
+ref = n;
+}
+);
+};
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(236,0,l),
+(246,73,o),
+(262,165,o),
+(280,258,cs),
+(297,352,o),
+(318,447,o),
+(338,520,c),
+(113,520,l),
+(103,447,o),
+(88,354,o),
+(70,260,cs),
+(52,167,o),
+(31,73,o),
+(11,0,c)
+);
+}
+);
+width = 349;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (56,0);
+},
+{
+name = ogonek;
+pos = (86,0);
+},
+{
+name = top;
+pos = (158,520);
+}
+);
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = n;
+}
+);
+};
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,0,l),
+(99,85,o),
+(114,168,o),
+(130,252,cs),
+(148,341,o),
+(166,430,o),
+(188,520,c),
+(128,520,l),
+(114,430,o),
+(98,341,o),
+(80,252,cs),
+(64,168,o),
+(47,85,o),
+(26,0,c)
+);
+}
+);
+width = 214;
+}
+);
+unicode = 305;
+userData = {
+KernOnName = idotless;
+};
+}

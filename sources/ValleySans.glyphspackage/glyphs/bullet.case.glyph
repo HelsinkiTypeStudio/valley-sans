@@ -1,0 +1,74 @@
+{
+glyphname = bullet.case;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-94,0);
+ref = hyphen.case;
+}
+);
+};
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+pos = (0,29);
+ref = bullet;
+}
+);
+width = 426;
+},
+{
+background = {
+shapes = (
+{
+ref = hyphen.case;
+}
+);
+};
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+pos = (0,77);
+ref = bullet;
+}
+);
+width = 519;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+pos = (15,77);
+ref = bullet;
+}
+);
+width = 527;
+},
+{
+background = {
+shapes = (
+{
+pos = (-8,0);
+ref = hyphen.case;
+}
+);
+};
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+pos = (6,29);
+ref = bullet;
+}
+);
+width = 432;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

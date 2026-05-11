@@ -1,0 +1,60 @@
+{
+color = 4;
+glyphname = Kcaron.ss01;
+kernLeft = KO_H;
+kernRight = KO_K.ss01;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = K.ss01;
+},
+{
+pos = (141,200);
+ref = caroncomb;
+}
+);
+width = 618;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = K.ss01;
+},
+{
+pos = (147,200);
+ref = caroncomb;
+}
+);
+width = 785;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = K.ss01;
+},
+{
+pos = (169,200);
+ref = caroncomb;
+}
+);
+width = 785;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = K.ss01;
+},
+{
+pos = (171,200);
+ref = caroncomb;
+}
+);
+width = 618;
+}
+);
+}

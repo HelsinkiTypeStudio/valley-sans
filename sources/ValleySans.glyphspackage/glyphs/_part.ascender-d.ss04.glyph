@@ -1,0 +1,198 @@
+{
+export = 0;
+glyphname = "_part.ascender-d.ss04";
+layers = (
+{
+anchors = (
+{
+name = connect;
+pos = (82,0);
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (0,520);
+}
+);
+shapes = (
+{
+ref = "_part.ascender-b";
+},
+{
+pos = (-389,0);
+ref = a.ss03;
+}
+);
+};
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,-2,l),
+(145,25,o),
+(132,65,o),
+(132,162,cs),
+(132,350,o),
+(133,537,o),
+(137,740,c),
+(77,740,l),
+(81,537,o),
+(82,350,o),
+(82,162,cs),
+(82,61,o),
+(98,14,o),
+(115,-15,c)
+);
+}
+);
+width = 222;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (62,0);
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (0,520);
+}
+);
+shapes = (
+{
+ref = "_part.ascender-b";
+},
+{
+pos = (-352,0);
+ref = a.ss03;
+}
+);
+};
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(324,37,l),
+(290,76,o),
+(282,124,o),
+(282,247,cs),
+(282,480,o),
+(285,609,o),
+(292,740,c),
+(62,740,l),
+(70,606,o),
+(72,483,o),
+(72,174,cs),
+(72,81,o),
+(85,27,o),
+(112,-17,c)
+);
+}
+);
+width = 354;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (11,0);
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (0,520);
+}
+);
+shapes = (
+{
+ref = "_part.ascender-b";
+},
+{
+pos = (-352,0);
+ref = a.ss03;
+}
+);
+};
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(281,37,l),
+(254,76,o),
+(256,124,o),
+(279,247,cs),
+(325,480,o),
+(353,609,o),
+(385,740,c),
+(155,740,l),
+(137,606,o),
+(115,483,o),
+(55,174,cs),
+(37,81,o),
+(40,27,o),
+(58,-17,c)
+);
+}
+);
+width = 354;
+},
+{
+anchors = (
+{
+name = connect;
+pos = (31,0);
+}
+);
+background = {
+anchors = (
+{
+name = connect;
+pos = (0,520);
+}
+);
+shapes = (
+{
+ref = "_part.ascender-b";
+},
+{
+pos = (-389,0);
+ref = a.ss03;
+}
+);
+};
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(111,-2,l),
+(99,25,o),
+(94,65,o),
+(113,162,cs),
+(149,350,o),
+(187,537,o),
+(230,740,c),
+(170,740,l),
+(135,537,o),
+(99,350,o),
+(63,162,cs),
+(43,61,o),
+(50,14,o),
+(62,-15,c)
+);
+}
+);
+width = 222;
+}
+);
+}

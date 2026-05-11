@@ -12,6 +12,23 @@ instance_ufos
 .ninja_log
 build.ninja
 
+# Local QA and reports (Makefile: out/fontspector, out/proof, out/badges)
+out/
+
+# Python (venv scripts, gftools, fontmake, CI helpers)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
 # OS generated files #
 ######################
 .DS_Store

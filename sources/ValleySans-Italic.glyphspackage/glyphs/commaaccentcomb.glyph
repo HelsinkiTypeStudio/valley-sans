@@ -1,0 +1,98 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (155,0);
+},
+{
+name = bottom;
+pos = (128,-258);
+}
+);
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+pos = (67,-143);
+ref = comma;
+scale = (0.7,0.7);
+}
+);
+width = 273;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (160,0);
+},
+{
+name = bottom;
+pos = (146,-281);
+}
+);
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+pos = (48,-186);
+ref = comma;
+scale = (0.7,0.6);
+}
+);
+width = 306;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (101,0);
+},
+{
+name = bottom;
+pos = (43,-298);
+}
+);
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+pos = (-18,-186);
+ref = comma;
+scale = (0.7,0.6);
+}
+);
+width = 303;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (76,0);
+},
+{
+name = bottom;
+pos = (26,-256);
+}
+);
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+pos = (-2,-143);
+ref = comma;
+scale = (0.7,0.7);
+}
+);
+width = 253;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 806;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

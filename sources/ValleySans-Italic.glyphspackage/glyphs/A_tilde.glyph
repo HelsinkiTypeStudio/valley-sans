@@ -1,0 +1,60 @@
+{
+glyphname = Atilde;
+kernLeft = KO_A;
+kernRight = KO_A;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (103,200);
+ref = tildecomb;
+}
+);
+width = 693;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (119,200);
+ref = tildecomb;
+}
+);
+width = 820;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (152,200);
+ref = tildecomb;
+}
+);
+width = 820;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (142,200);
+ref = tildecomb;
+}
+);
+width = 693;
+}
+);
+unicode = 195;
+}

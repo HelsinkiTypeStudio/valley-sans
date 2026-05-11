@@ -1,101 +1,55 @@
-## Setting up your font
+# Valley Sans
 
-### New repositories
+Valley Sans is a clear, versatile typeface developed for Moomin Characters.
 
-1. Hit the green button above ("Use this template") to create your own repository.
+![Valley Sans overview](documentation/valley-sans.jpg)
 
-2. Clone the repository, and replace the font sources in the `sources` directory with your own font sources. These sources may be either in Glyphs format or UFO/Designspace formats.\
-   \
-   Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped to the platform have to match the [Google Fonts Specifications](https://github.com/googlefonts/gf-docs/tree/main/Spec). Please read them carefully.\
-   \
-   _(The sample font provided in this template is [Radio Canada](https://github.com/googlefonts/radiocanadadisplay/) by Charles Daoud, Etienne Aubert Bonn, Alexandre Saumier Demers and contributors.)_
+The design draws from Tove Jansson's original lettering, the typographic landscape of her era, and details from life in the Finnish archipelago.
 
-3. Then reference the sources in the file `sources/config.yaml`, as well as making any other changes you would like to make based on the instructions in the [Google Fonts Builder documentation](https://github.com/googlefonts/gftools/blob/main/Lib/gftools/builder/__init__.py).
+The Moomins, beloved characters created by Tove Jansson, are known for wit, warmth, and timeless charm. Valley Sans translates that spirit into a contemporary type system for brand communication, publishing, and digital interfaces while preserving a distinct connection to the Moomin visual world.
 
-4. Add yourself to the `AUTHORS.txt` and `CONTRIBUTORS.txt` files.
+![Valley Sans sample](documentation/valley-sans-flotsam.jpg)
 
-5. Fill out `documentation/ARTICLE.en_us.html` with a description of your font.
+A central challenge in developing the typeface was that Jansson's lettering references are primarily uppercase. To build a complete contemporary family, the lowercase and broader stylistic system were developed through archival research into compatible historical models. The design team focused on late-1800s American modern gothic typefaces, chosen for their warmth, practicality, and expressive charm.
 
-6. Rewrite this Readme file according to the recommendations in the [Google Fonts Guide](https://googlefonts.github.io/gf-guide/readmefile.html).
+![Valley Sans character mix](documentation/valley-sans-character-mix.jpg)
 
-7. Add and commit these files to git.
+This historical direction also reflects the archipelago setting connected to the Moomin world. In the Finnish archipelago, American letterforms can be seen on cargo crates and other objects that have drifted ashore over time. This idea of flotsam, where distant typographic influences arrive by sea and settle into local visual culture, became part of the conceptual foundation of Valley Sans.
 
-8. **At the command line, run `make customize` to ensure that all the paths and URLs in your project are correct**. This will also push your changes to GitHub.
+The result is a typeface rooted in heritage and storytelling, designed for clarity, rhythm, and usability across styles.
 
-9. **Set up your GitHub pages site**: go to your repository's Settings > Pages and ensure that the Build and deployment "Source" drop-down is set to "GitHub Actions". (Any preexisting Actions jobs can be re-run to publish now, or the deployment triggered also manually from the Actions tab. Subsequent commits will publish the proofs and QA results automatically.)
+![Valley Sans styles](documentation/valley-sans-styles.jpg)
 
-10. If GitHub Actions has successfully built the family, you will find the font binaries in the Actions tab. The official GitHub Actions documentation provides further [information](https://docs.github.com/en/actions/managing-workflow-runs/downloading-workflow-artifacts).
+Valley Sans is delivered as a variable family with Weight and Italic axes, covering styles from Thin to Black in both roman and italic. This structure provides a broad expressive range while keeping behavior consistent across editorial and interface contexts.
 
-### Updating a repository
+The family is currently developed for Latin-script use and is intended to support a wide range of contemporary brand and publishing needs in digital and print environments.
 
-1. To update your font repository to bring in the latest best-practices from the Google Fonts Project Template, run `make update-project-template` from the command line. This requires the `node` Javascript engine to be installed; if you don't have that already, [follow these instructions](https://nodejs.org/en/download/package-manager#macos) to install on your platform.
+Images courtesy of Moomin Characters.
 
-2. To update the Python build chain which builds your fonts, run `make update` and `git add`/`git commit` the new `requirements.txt`.
+## Authors
 
-## More things to do
+- Niklas Ekholm
+- Helsinki Type Studio
 
-- `CustomFilter_GF_Latin_All.plist` in `sources` is practical if you use GlyphsApp, you can remove it otherwise. Placed in the same directory as the your `.glyphs` file, it will allow Glyphs to display a filter list for all GF Latin glyphsets in app. To make sure your font supports the minimal set required by Google Fonts, look at the `GF_Latin_Core` filter list. Find other glyphsets and list formats for different software in [GF Glyphsets repository](https://github.com/googlefonts/glyphsets/tree/main/GF_glyphsets).
+## Contributors
 
-- Once you are happy with your font, add promotional assets in the documentation directory. Make it different from the pic you use in this README. You can get inspired by existing @googlefonts posts as: https://x.com/googlefonts/status/1415562928657416192.
+- Lari Mörö
 
-- Google Fonts uses GitHub Releases to manage font families. If you feel your font project has hit a milestone, you must create a new release for it. In order to do this, go to the releases page and hit the "Draft a new release" button. You must provide a tag number and title which can only be a decimal number e.g. `0.100`, `1.000` etc. For the body text, mention what has changed since the last release. Once you are done, hit the "Publish release" button. Here is an example which fulfills the requirements, https://github.com/m4rc1e/test-ufr-family/releases/tag/2.019. For more info regarding GitHub release, please see the official GitHub Release [documentation](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). **Please note that GitHub Actions must be able to build the fonts before you can make a release. Once you have made a release, the fonts and tests assets will be attached to the release automatically. This may take a while since the fonts and tests will be built from scratch so please be patient.**
+## Credits
 
----
-
-# My Font
-
-[![][Fontspector]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
-[![][OpenType]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
-[![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
-[![][Google Fonts]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
-[![][Glyphset]](https://googlefonts.github.io/googlefonts-project-template/fontspector/fontspector-report.html)
-
-[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FFontspectorQA.json
-[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FOpentypeSpecificationChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FUniversalProfileChecks.json
-[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FFontFileChecks.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FOutlineCorrectnessChecks.json
-[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Fgooglefonts.github.io%2Fgooglefonts-project-template%2Fbadges%2FGlyphsetChecks.json
-
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
-
-Don't hesitate to create images!
-
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
-
-## About
-
-Description of you and/or organisation goes here.
+Valley Sans was designed by Niklas Ekholm for Moomin Characters in collaboration with Lari Mörö at Helsinki Type Studio.
 
 ## Building
 
-Fonts are built automatically by GitHub Actions — take a look in the "Actions" tab for the latest build.
+Fonts are built automatically by GitHub Actions.
 
-If you want to build fonts manually on your own computer:
+To build locally:
 
-- `make build` will produce font files.
-- `make test` will run [Fontspector](https://fonttools.github.io/fontspector/)'s quality assurance tests.
-- `make proof` will generate HTML proof files.
-
-The proof files and QA tests are also available automatically via GitHub Actions — look at `https://yourname.github.io/your-font-repository-name`.
-
-## Changelog
-
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver.
-Changelog example:
-
-**26 May 2021. Version 2.13**
-
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+- `make build` builds font binaries.
+- `make test` runs quality assurance tests.
+- `make proof` generates HTML proof files.
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at https://openfontlicense.org
-
-## Repository Layout
-
-This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
+This Font Software is licensed under the SIL Open Font License, Version 1.1.  
+See `OFL.txt` and https://openfontlicense.org

@@ -1,0 +1,60 @@
+{
+glyphname = emdash.case;
+kernLeft = KO_hyphen.case;
+kernRight = KO_hyphen.case;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+alignment = -1;
+pos = (0,47);
+ref = emdash;
+}
+);
+width = 1054;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+alignment = -1;
+pos = (0,113);
+ref = emdash;
+}
+);
+width = 1072;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+alignment = -1;
+pos = (22,113);
+ref = emdash;
+}
+);
+width = 1072;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+alignment = -1;
+pos = (9,47);
+ref = emdash;
+}
+);
+width = 1054;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+userData = {
+KernOnName = emdash.case;
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

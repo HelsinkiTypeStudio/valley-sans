@@ -1,0 +1,62 @@
+{
+glyphname = questiondown;
+kernRight = KO_questiondown;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (525,520);
+ref = question;
+}
+);
+width = 525;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (615,520);
+ref = question;
+}
+);
+width = 617;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (609,520);
+ref = question;
+}
+);
+width = 610;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (525,520);
+ref = question;
+}
+);
+width = 517;
+}
+);
+metricLeft = S;
+metricRight = S;
+unicode = 191;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

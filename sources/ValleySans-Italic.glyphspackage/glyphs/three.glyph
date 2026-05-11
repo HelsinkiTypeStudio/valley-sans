@@ -1,0 +1,791 @@
+{
+glyphname = three;
+kernLeft = KO_three;
+kernRight = KO_three;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (15,0);
+ref = eight;
+}
+);
+};
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,-12,o),
+(556,90,o),
+(556,212,cs),
+(556,293,o),
+(494,381,o),
+(388,396,c),
+(455,417,o),
+(516,477,o),
+(516,564,cs),
+(516,665,o),
+(428,736,o),
+(304,736,cs),
+(198,736,o),
+(112,664,o),
+(90,561,c),
+(137,551,l),
+(156,631,o),
+(222,688,o),
+(304,688,cs),
+(398,688,o),
+(464,637,o),
+(464,564,cs),
+(464,478,o),
+(394,417,o),
+(294,417,c),
+(294,375,l),
+(421,375,o),
+(504,309,o),
+(504,212,cs),
+(504,101,o),
+(411,36,o),
+(301,36,cs),
+(202,36,o),
+(113,98,o),
+(92,189,c),
+(45,179,l),
+(63,67,o),
+(169,-12,o),
+(301,-12,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 2 values pushed */
+10 -32 
+PUSHB[ ]	/* 3 values pushed */
+12 57 9 
+PUSHW[ ]	/* 1 value pushed */
+-64 
+NPUSHB[ ]	/* 60 values pushed */
+12 57 65 9 69 10 70 11 75 34 4 207 9 1 41 41 56 41 64 52 96 52 207 52 224 52 247 10 7 0 52 1 65 9 127 35 122 46 170 36 185 36 186 46 201 46 223 35 223 37 219 46 234 34 233 37 12 73 8 41 
+PUSHW[ ]	/* 1 value pushed */
+396 
+PUSHB[ ]	/* 4 values pushed */
+40 40 16 0 
+PUSHW[ ]	/* 1 value pushed */
+740 
+PUSHB[ ]	/* 4 values pushed */
+208 48 1 48 
+PUSHW[ ]	/* 1 value pushed */
+820 
+PUSHB[ ]	/* 6 values pushed */
+3 5 16 22 1 22 
+PUSHW[ ]	/* 1 value pushed */
+415 
+PUSHB[ ]	/* 6 values pushed */
+29 64 43 47 52 29 
+PUSHW[ ]	/* 1 value pushed */
+323 
+PUSHB[ ]	/* 4 values pushed */
+16 13 41 40 
+PUSHW[ ]	/* 4 values pushed */
+360 20 9 739 
+NPUSHB[ ]	/* 11 values pushed */
+80 32 128 32 2 144 32 160 32 2 32 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 4 values pushed */
+176 12 1 12 
+PUSHW[ ]	/* 1 value pushed */
+400 
+NPUSHB[ ]	/* 11 values pushed */
+80 45 128 45 2 144 45 160 45 2 45 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 6 values pushed */
+95 7 127 7 2 7 
+PUSHW[ ]	/* 1 value pushed */
+741 
+NPUSHB[ ]	/* 10 values pushed */
+64 52 1 160 52 192 52 2 52 0 
+PUSHW[ ]	/* 1 value pushed */
+318 
+PUSHB[ ]	/* 8 values pushed */
+64 19 191 19 2 19 25 51 
+PUSHW[ ]	/* 3 values pushed */
+286 488 24 
+CALL[ ]	/* CallFunction */
+FLIPOFF[ ]	/* SetAutoFlipOff */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+FLIPON[ ]	/* SetAutoFlipOn */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10110]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+RS[ ]	/* ReadStore */
+JROF[ ]	/* JumpRelativeOnFalse */
+NPUSHB[ ]	/* 54 values pushed */
+46 47 30 38 10 15 4 6 34 33 35 33 36 33 37 33 4 6 5 37 14 38 38 10 32 98 1 47 4 45 98 1 30 15 32 98 1 33 11 39 98 1 10 9 46 6 48 98 1 31 13 29 98 0 
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+SRP0[ ]	/* SetRefPoint0 */
+ALIGNRP[ ]	/* AlignRelativePt */
+CALL[ ]	/* CallFunction */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+LOOPCALL[ ]	/* LoopAndCallFunction */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */";
+de.kutilek.scrawl.data = <89504e470d0a1a0a0000000d494844520000015e0000025808000000000ff1d14600000038655849664d4d002a00000008000187690004000000010000001a000000000002a0020004000000010000015ea0030004000000010000025800000000c1e6cac80000073c494441547801edd2b10d803010044143ffe5d00e2145109916484642661d5b1bccdf3647cf09ec2e5d798c78e90ae28d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad0f89aebbd6e8af63ebe26ef71be17a03fb749f37f8fafb9decf5c355e7a8a78e3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234fe0000710a1c73909d3e0000000049454e44ae426082>;
+de.kutilek.scrawl.rect = (
+-100,
+-370,
+700,
+1200
+);
+de.kutilek.scrawl.size = 2;
+de.kutilek.scrawl.unit = 2;
+};
+width = 628;
+},
+{
+background = {
+shapes = (
+{
+pos = (-3,0);
+ref = eight;
+},
+{
+pos = (704,-1);
+ref = S;
+scale = (-1,1);
+}
+);
+};
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(525,-16,o),
+(650,73,o),
+(650,200,cs),
+(650,287,o),
+(587,361,o),
+(514,373,c),
+(562,387,o),
+(636,438,o),
+(636,540,cs),
+(636,649,o),
+(520,736,o),
+(359,736,cs),
+(235,736,o),
+(115,671,o),
+(72,565,c),
+(259,506,l),
+(274,554,o),
+(313,569,o),
+(348,569,cs),
+(398,569,o),
+(423,547,o),
+(423,516,cs),
+(423,468,o),
+(384,447,o),
+(274,453,c),
+(274,285,l),
+(398,291,o),
+(437,254,o),
+(437,209,cs),
+(437,178,o),
+(411,150,o),
+(361,150,cs),
+(331,150,o),
+(267,164,o),
+(237,242,c),
+(50,218,l),
+(77,68,o),
+(217,-16,o),
+(355,-16,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 2 values pushed */
+10 -32 
+PUSHB[ ]	/* 3 values pushed */
+12 57 9 
+PUSHW[ ]	/* 1 value pushed */
+-64 
+NPUSHB[ ]	/* 60 values pushed */
+12 57 65 9 69 10 70 11 75 34 4 207 9 1 41 41 56 41 64 52 96 52 207 52 224 52 247 10 7 0 52 1 65 9 127 35 122 46 170 36 185 36 186 46 201 46 223 35 223 37 219 46 234 34 233 37 12 73 8 41 
+PUSHW[ ]	/* 1 value pushed */
+396 
+PUSHB[ ]	/* 4 values pushed */
+40 40 16 0 
+PUSHW[ ]	/* 1 value pushed */
+740 
+PUSHB[ ]	/* 4 values pushed */
+208 48 1 48 
+PUSHW[ ]	/* 1 value pushed */
+820 
+PUSHB[ ]	/* 6 values pushed */
+3 5 16 22 1 22 
+PUSHW[ ]	/* 1 value pushed */
+415 
+PUSHB[ ]	/* 6 values pushed */
+29 64 43 47 52 29 
+PUSHW[ ]	/* 1 value pushed */
+323 
+PUSHB[ ]	/* 4 values pushed */
+16 13 41 40 
+PUSHW[ ]	/* 4 values pushed */
+360 20 9 739 
+NPUSHB[ ]	/* 11 values pushed */
+80 32 128 32 2 144 32 160 32 2 32 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 4 values pushed */
+176 12 1 12 
+PUSHW[ ]	/* 1 value pushed */
+400 
+NPUSHB[ ]	/* 11 values pushed */
+80 45 128 45 2 144 45 160 45 2 45 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 6 values pushed */
+95 7 127 7 2 7 
+PUSHW[ ]	/* 1 value pushed */
+741 
+NPUSHB[ ]	/* 10 values pushed */
+64 52 1 160 52 192 52 2 52 0 
+PUSHW[ ]	/* 1 value pushed */
+318 
+PUSHB[ ]	/* 8 values pushed */
+64 19 191 19 2 19 25 51 
+PUSHW[ ]	/* 3 values pushed */
+286 488 24 
+CALL[ ]	/* CallFunction */
+FLIPOFF[ ]	/* SetAutoFlipOff */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+FLIPON[ ]	/* SetAutoFlipOn */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10110]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+RS[ ]	/* ReadStore */
+JROF[ ]	/* JumpRelativeOnFalse */
+NPUSHB[ ]	/* 54 values pushed */
+46 47 30 38 10 15 4 6 34 33 35 33 36 33 37 33 4 6 5 37 14 38 38 10 32 98 1 47 4 45 98 1 30 15 32 98 1 33 11 39 98 1 10 9 46 6 48 98 1 31 13 29 98 0 
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+SRP0[ ]	/* SetRefPoint0 */
+ALIGNRP[ ]	/* AlignRelativePt */
+CALL[ ]	/* CallFunction */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+LOOPCALL[ ]	/* LoopAndCallFunction */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */";
+de.kutilek.scrawl.data = <89504e470d0a1a0a0000000d494844520000015e0000025808000000000ff1d14600000038655849664d4d002a00000008000187690004000000010000001a000000000002a0020004000000010000015ea0030004000000010000025800000000c1e6cac80000073c494441547801edd2b10d803010044143ffe5d00e2145109916484642661d5b1bccdf3647cf09ec2e5d798c78e90ae28d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad0f89aebbd6e8af63ebe26ef71be17a03fb749f37f8fafb9decf5c355e7a8a78e3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234fe0000710a1c73909d3e0000000049454e44ae426082>;
+de.kutilek.scrawl.rect = (
+-100,
+-370,
+700,
+1200
+);
+de.kutilek.scrawl.size = 2;
+de.kutilek.scrawl.unit = 2;
+};
+width = 704;
+},
+{
+background = {
+shapes = (
+{
+pos = (-3,0);
+ref = eight;
+},
+{
+pos = (704,-1);
+ref = S;
+scale = (-1,1);
+}
+);
+};
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(518,-16,o),
+(614,79,o),
+(633,178,cs),
+(648,256,o),
+(615,337,o),
+(536,373,c),
+(613,390,o),
+(665,453,o),
+(677,514,cs),
+(697,619,o),
+(629,736,o),
+(429,736,cs),
+(280,736,o),
+(175,666,o),
+(131,565,c),
+(307,506,l),
+(331,554,o),
+(373,569,o),
+(408,569,cs),
+(458,569,o),
+(479,547,o),
+(473,516,cs),
+(463,468,o),
+(420,447,o),
+(312,453,c),
+(279,285,l),
+(402,291,o),
+(435,249,o),
+(425,201,cs),
+(421,178,o),
+(390,150,o),
+(340,150,cs),
+(310,150,o),
+(248,164,o),
+(234,242,c),
+(42,218,l),
+(64,72,o),
+(175,-16,o),
+(339,-16,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 2 values pushed */
+10 -32 
+PUSHB[ ]	/* 3 values pushed */
+12 57 9 
+PUSHW[ ]	/* 1 value pushed */
+-64 
+NPUSHB[ ]	/* 60 values pushed */
+12 57 65 9 69 10 70 11 75 34 4 207 9 1 41 41 56 41 64 52 96 52 207 52 224 52 247 10 7 0 52 1 65 9 127 35 122 46 170 36 185 36 186 46 201 46 223 35 223 37 219 46 234 34 233 37 12 73 8 41 
+PUSHW[ ]	/* 1 value pushed */
+396 
+PUSHB[ ]	/* 4 values pushed */
+40 40 16 0 
+PUSHW[ ]	/* 1 value pushed */
+740 
+PUSHB[ ]	/* 4 values pushed */
+208 48 1 48 
+PUSHW[ ]	/* 1 value pushed */
+820 
+PUSHB[ ]	/* 6 values pushed */
+3 5 16 22 1 22 
+PUSHW[ ]	/* 1 value pushed */
+415 
+PUSHB[ ]	/* 6 values pushed */
+29 64 43 47 52 29 
+PUSHW[ ]	/* 1 value pushed */
+323 
+PUSHB[ ]	/* 4 values pushed */
+16 13 41 40 
+PUSHW[ ]	/* 4 values pushed */
+360 20 9 739 
+NPUSHB[ ]	/* 11 values pushed */
+80 32 128 32 2 144 32 160 32 2 32 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 4 values pushed */
+176 12 1 12 
+PUSHW[ ]	/* 1 value pushed */
+400 
+NPUSHB[ ]	/* 11 values pushed */
+80 45 128 45 2 144 45 160 45 2 45 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 6 values pushed */
+95 7 127 7 2 7 
+PUSHW[ ]	/* 1 value pushed */
+741 
+NPUSHB[ ]	/* 10 values pushed */
+64 52 1 160 52 192 52 2 52 0 
+PUSHW[ ]	/* 1 value pushed */
+318 
+PUSHB[ ]	/* 8 values pushed */
+64 19 191 19 2 19 25 51 
+PUSHW[ ]	/* 3 values pushed */
+286 488 24 
+CALL[ ]	/* CallFunction */
+FLIPOFF[ ]	/* SetAutoFlipOff */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+FLIPON[ ]	/* SetAutoFlipOn */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10110]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+RS[ ]	/* ReadStore */
+JROF[ ]	/* JumpRelativeOnFalse */
+NPUSHB[ ]	/* 54 values pushed */
+46 47 30 38 10 15 4 6 34 33 35 33 36 33 37 33 4 6 5 37 14 38 38 10 32 98 1 47 4 45 98 1 30 15 32 98 1 33 11 39 98 1 10 9 46 6 48 98 1 31 13 29 98 0 
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+SRP0[ ]	/* SetRefPoint0 */
+ALIGNRP[ ]	/* AlignRelativePt */
+CALL[ ]	/* CallFunction */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+LOOPCALL[ ]	/* LoopAndCallFunction */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */";
+de.kutilek.scrawl.data = <89504e470d0a1a0a0000000d494844520000015e0000025808000000000ff1d14600000038655849664d4d002a00000008000187690004000000010000001a000000000002a0020004000000010000015ea0030004000000010000025800000000c1e6cac80000073c494441547801edd2b10d803010044143ffe5d00e2145109916484642661d5b1bccdf3647cf09ec2e5d798c78e90ae28d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad0f89aebbd6e8af63ebe26ef71be17a03fb749f37f8fafb9decf5c355e7a8a78e3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234fe0000710a1c73909d3e0000000049454e44ae426082>;
+de.kutilek.scrawl.rect = (
+-100,
+-370,
+700,
+1200
+);
+de.kutilek.scrawl.size = 2;
+de.kutilek.scrawl.unit = 2;
+};
+width = 704;
+},
+{
+background = {
+shapes = (
+{
+pos = (15,0);
+ref = eight;
+}
+);
+};
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(428,-12,o),
+(522,75,o),
+(541,170,cs),
+(560,269,o),
+(517,355,o),
+(414,393,c),
+(494,408,o),
+(561,471,o),
+(575,541,cs),
+(600,670,o),
+(500,736,o),
+(390,736,cs),
+(289,736,o),
+(179,680,o),
+(149,561,c),
+(194,551,l),
+(227,646,o),
+(311,688,o),
+(386,688,cs),
+(469,688,o),
+(541,637,o),
+(523,543,cs),
+(510,476,o),
+(449,415,o),
+(325,417,c),
+(316,375,l),
+(467,362,o),
+(505,279,o),
+(486,179,cs),
+(473,109,o),
+(400,36,o),
+(297,36,cs),
+(163,36,o),
+(92,99,o),
+(78,189,c),
+(29,179,l),
+(44,83,o),
+(126,-12,o),
+(289,-12,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 2 values pushed */
+10 -32 
+PUSHB[ ]	/* 3 values pushed */
+12 57 9 
+PUSHW[ ]	/* 1 value pushed */
+-64 
+NPUSHB[ ]	/* 60 values pushed */
+12 57 65 9 69 10 70 11 75 34 4 207 9 1 41 41 56 41 64 52 96 52 207 52 224 52 247 10 7 0 52 1 65 9 127 35 122 46 170 36 185 36 186 46 201 46 223 35 223 37 219 46 234 34 233 37 12 73 8 41 
+PUSHW[ ]	/* 1 value pushed */
+396 
+PUSHB[ ]	/* 4 values pushed */
+40 40 16 0 
+PUSHW[ ]	/* 1 value pushed */
+740 
+PUSHB[ ]	/* 4 values pushed */
+208 48 1 48 
+PUSHW[ ]	/* 1 value pushed */
+820 
+PUSHB[ ]	/* 6 values pushed */
+3 5 16 22 1 22 
+PUSHW[ ]	/* 1 value pushed */
+415 
+PUSHB[ ]	/* 6 values pushed */
+29 64 43 47 52 29 
+PUSHW[ ]	/* 1 value pushed */
+323 
+PUSHB[ ]	/* 4 values pushed */
+16 13 41 40 
+PUSHW[ ]	/* 4 values pushed */
+360 20 9 739 
+NPUSHB[ ]	/* 11 values pushed */
+80 32 128 32 2 144 32 160 32 2 32 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 4 values pushed */
+176 12 1 12 
+PUSHW[ ]	/* 1 value pushed */
+400 
+NPUSHB[ ]	/* 11 values pushed */
+80 45 128 45 2 144 45 160 45 2 45 
+PUSHW[ ]	/* 1 value pushed */
+819 
+PUSHB[ ]	/* 6 values pushed */
+95 7 127 7 2 7 
+PUSHW[ ]	/* 1 value pushed */
+741 
+NPUSHB[ ]	/* 10 values pushed */
+64 52 1 160 52 192 52 2 52 0 
+PUSHW[ ]	/* 1 value pushed */
+318 
+PUSHB[ ]	/* 8 values pushed */
+64 19 191 19 2 19 25 51 
+PUSHW[ ]	/* 3 values pushed */
+286 488 24 
+CALL[ ]	/* CallFunction */
+FLIPOFF[ ]	/* SetAutoFlipOff */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+FLIPON[ ]	/* SetAutoFlipOn */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10110]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[10100]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+MIRP[00100]	/* MoveIndirectRelPt */
+SRP0[ ]	/* SetRefPoint0 */
+MIRP[10100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+CALL[ ]	/* CallFunction */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MIRP[01101]	/* MoveIndirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[01101]	/* MoveIndirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+RS[ ]	/* ReadStore */
+JROF[ ]	/* JumpRelativeOnFalse */
+NPUSHB[ ]	/* 54 values pushed */
+46 47 30 38 10 15 4 6 34 33 35 33 36 33 37 33 4 6 5 37 14 38 38 10 32 98 1 47 4 45 98 1 30 15 32 98 1 33 11 39 98 1 10 9 46 6 48 98 1 31 13 29 98 0 
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+SRP0[ ]	/* SetRefPoint0 */
+ALIGNRP[ ]	/* AlignRelativePt */
+CALL[ ]	/* CallFunction */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+LOOPCALL[ ]	/* LoopAndCallFunction */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+FLIPRGON[ ]	/* FlipRangeOn */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP3[ ]	/* DeltaExceptionP3 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+DELTAP2[ ]	/* DeltaExceptionP2 */
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */";
+de.kutilek.scrawl.data = <89504e470d0a1a0a0000000d494844520000015e0000025808000000000ff1d14600000038655849664d4d002a00000008000187690004000000010000001a000000000002a0020004000000010000015ea0030004000000010000025800000000c1e6cac80000073c494441547801edd2b10d803010044143ffe5d00e2145109916484642661d5b1bccdf3647cf09ec2e5d798c78e90ae28d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad078eb8d970ad0f89aebbd6e8af63ebe26ef71be17a03fb749f37f8fafb9decf5c355e7a8a78e3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234de7ae3a50234fe0000710a1c73909d3e0000000049454e44ae426082>;
+de.kutilek.scrawl.rect = (
+-100,
+-370,
+700,
+1200
+);
+de.kutilek.scrawl.size = 2;
+de.kutilek.scrawl.unit = 2;
+};
+width = 628;
+}
+);
+note = three;
+unicode = 51;
+}

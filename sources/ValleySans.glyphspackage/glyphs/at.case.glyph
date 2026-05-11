@@ -1,0 +1,52 @@
+{
+glyphname = at.case;
+kernLeft = KO_copyright;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+pos = (0,70);
+ref = at;
+}
+);
+width = 1027;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+pos = (0,70);
+ref = at;
+}
+);
+width = 1027;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+pos = (14,70);
+ref = at;
+}
+);
+width = 1031;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+pos = (14,70);
+ref = at;
+}
+);
+width = 1035;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

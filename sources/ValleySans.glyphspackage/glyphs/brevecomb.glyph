@@ -1,0 +1,178 @@
+{
+glyphname = brevecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (206,520);
+},
+{
+name = top;
+pos = (206,738);
+}
+);
+background = {
+shapes = (
+{
+pos = (-99,0);
+ref = acutecomb;
+},
+{
+pos = (-99,0);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(272,623,o),
+(327,672,o),
+(331,738,c),
+(294,738,l),
+(289,694,o),
+(253,659,o),
+(206,659,cs),
+(162,659,o),
+(124,691,o),
+(118,738,c),
+(81,738,l),
+(85,673,o),
+(139,623,o),
+(206,623,cs)
+);
+}
+);
+width = 412;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (264,520);
+},
+{
+name = top;
+pos = (264,729);
+}
+);
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(389,590,o),
+(448,673,o),
+(461,761,c),
+(325,761,l),
+(317,732,o),
+(293,717,o),
+(264,717,cs),
+(235,717,o),
+(210,732,o),
+(201,761,c),
+(66,761,l),
+(79,674,o),
+(139,590,o),
+(264,590,cs)
+);
+}
+);
+width = 527;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (341,520);
+},
+{
+name = top;
+pos = (381,729);
+}
+);
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(486,590,o),
+(545,673,o),
+(558,761,c),
+(422,761,l),
+(414,732,o),
+(390,717,o),
+(361,717,cs),
+(332,717,o),
+(307,732,o),
+(298,761,c),
+(163,761,l),
+(176,674,o),
+(236,590,o),
+(361,590,cs)
+);
+}
+);
+width = 527;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (278,520);
+},
+{
+name = top;
+pos = (320,738);
+}
+);
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = acutecomb;
+},
+{
+pos = (-6,0);
+ref = circumflexcomb;
+}
+);
+};
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(365,623,o),
+(420,672,o),
+(424,738,c),
+(387,738,l),
+(382,694,o),
+(346,659,o),
+(299,659,cs),
+(255,659,o),
+(217,691,o),
+(211,738,c),
+(174,738,l),
+(178,673,o),
+(232,623,o),
+(299,623,cs)
+);
+}
+);
+width = 413;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 774;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

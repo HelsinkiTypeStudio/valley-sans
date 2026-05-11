@@ -1,0 +1,60 @@
+{
+glyphname = Imacron;
+kernLeft = KO_H;
+kernRight = KO_H;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-61,200);
+ref = macroncomb;
+}
+);
+width = 250;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-64,200);
+ref = macroncomb;
+}
+);
+width = 401;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-38,200);
+ref = macroncomb;
+}
+);
+width = 401;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-26,200);
+ref = macroncomb;
+}
+);
+width = 250;
+}
+);
+unicode = 298;
+}

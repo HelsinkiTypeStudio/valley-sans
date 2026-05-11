@@ -1,0 +1,59 @@
+{
+glyphname = Lcaron;
+kernLeft = KO_H;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (202,0);
+ref = caroncomb.alt;
+}
+);
+width = 536;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (341,0);
+ref = caroncomb.alt;
+}
+);
+width = 577;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (340,0);
+ref = caroncomb.alt;
+}
+);
+width = 577;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (197,0);
+ref = caroncomb.alt;
+}
+);
+width = 536;
+}
+);
+unicode = 317;
+}

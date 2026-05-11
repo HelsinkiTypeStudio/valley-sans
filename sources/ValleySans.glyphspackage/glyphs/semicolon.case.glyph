@@ -1,0 +1,52 @@
+{
+glyphname = semicolon.case;
+kernLeft = KO_semicolon.case;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+alignment = -1;
+pos = (0,120);
+ref = semicolon;
+}
+);
+width = 260;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+alignment = -1;
+pos = (0,90);
+ref = semicolon;
+}
+);
+width = 341;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+alignment = -1;
+pos = (18,90);
+ref = semicolon;
+}
+);
+width = 365;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+alignment = -1;
+pos = (23,120);
+ref = semicolon;
+}
+);
+width = 277;
+}
+);
+metricLeft = comma;
+metricRight = period;
+}

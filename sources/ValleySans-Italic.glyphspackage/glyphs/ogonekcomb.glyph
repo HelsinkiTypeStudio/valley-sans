@@ -1,0 +1,234 @@
+{
+glyphname = ogonekcomb;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+pos = (188,0);
+}
+);
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,-155,l),
+(151,-160,o),
+(129,-142,o),
+(129,-117,cs),
+(129,-88,o),
+(138,-66,o),
+(188,0,c),
+(144,0,l),
+(93,-61,o),
+(81,-91,o),
+(81,-123,cs),
+(81,-178,o),
+(129,-200,o),
+(193,-194,c)
+);
+}
+);
+width = 274;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (284,0);
+}
+);
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(304,-103,l),
+(258,-103,o),
+(232,-93,o),
+(232,-69,cs),
+(232,-51,o),
+(243,-30,o),
+(284,0,c),
+(188,6,l),
+(104,-36,o),
+(66,-83,o),
+(66,-126,cs),
+(66,-209,o),
+(151,-244,o),
+(324,-217,c)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (233,0);
+}
+);
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,-103,l),
+(187,-103,o),
+(163,-93,o),
+(168,-69,cs),
+(172,-51,o),
+(187,-30,o),
+(233,0,c),
+(139,6,l),
+(46,-36,o),
+(-1,-83,o),
+(-9,-126,cs),
+(-25,-209,o),
+(53,-244,o),
+(231,-217,c)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _ogonek;
+pos = (137,0);
+}
+);
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,-155,l),
+(69,-160,o),
+(51,-142,o),
+(56,-117,cs),
+(61,-88,o),
+(75,-66,o),
+(137,0,c),
+(93,0,l),
+(31,-61,o),
+(13,-91,o),
+(7,-123,cs),
+(-4,-178,o),
+(40,-200,o),
+(105,-194,c)
+);
+}
+);
+width = 274;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 808;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+com.typemytype.robofont.layerData = {
+background = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+smooth = 0;
+x = 178;
+y = -190;
+},
+{
+smooth = 0;
+x = 123;
+y = -154;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 123;
+y = -105;
+},
+{
+smooth = 0;
+x = 123;
+y = -53;
+},
+{
+smooth = 0;
+x = 166;
+y = -19;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 227;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 213;
+y = 60;
+},
+{
+smooth = 0;
+x = 105;
+y = 30;
+},
+{
+smooth = 0;
+x = 50;
+y = -39;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 50;
+y = -109;
+},
+{
+smooth = 0;
+x = 50;
+y = -186;
+},
+{
+smooth = 0;
+x = 125;
+y = -246;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 250;
+y = -254;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 268;
+y = -200;
+}
+);
+}
+);
+lib = {
+};
+name = ogonekcomb;
+unicodes = (
+);
+width = 318;
+};
+};
+};
+}
