@@ -1,5 +1,6 @@
 {
 glyphname = multiply;
+kernRight = KO_multiply;
 layers = (
 {
 background = {

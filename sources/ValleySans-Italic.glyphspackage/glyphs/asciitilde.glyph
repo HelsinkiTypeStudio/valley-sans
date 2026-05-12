@@ -1,5 +1,6 @@
 {
 glyphname = asciitilde;
+kernLeft = KO_asciitilde;
 kernRight = KO_asciitilde;
 layers = (
 {

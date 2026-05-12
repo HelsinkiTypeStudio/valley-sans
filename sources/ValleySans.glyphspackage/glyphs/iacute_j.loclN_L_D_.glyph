@@ -56,15 +56,15 @@ pos = (3,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (225,0);
 ref = jdotless;
 },
 {
-pos = (203,0);
+pos = (214,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 427;
 },
 {
 associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
@@ -79,15 +79,15 @@ pos = (3,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (225,0);
 ref = jdotless;
 },
 {
-pos = (203,0);
+pos = (214,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 427;
 },
 {
 associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
@@ -102,15 +102,15 @@ pos = (3,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (225,0);
 ref = jdotless;
 },
 {
-pos = (203,0);
+pos = (214,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 427;
 },
 {
 associatedMasterId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
@@ -125,15 +125,15 @@ pos = (3,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (225,0);
 ref = jdotless;
 },
 {
-pos = (203,0);
+pos = (214,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 427;
 },
 {
 layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
@@ -190,15 +190,15 @@ pos = (16,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (224,0);
 ref = jdotless;
 },
 {
-pos = (216,0);
+pos = (226,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 426;
 },
 {
 associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
@@ -213,15 +213,15 @@ pos = (16,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (224,0);
 ref = jdotless;
 },
 {
-pos = (216,0);
+pos = (226,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 426;
 },
 {
 associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
@@ -236,15 +236,15 @@ pos = (16,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (224,0);
 ref = jdotless;
 },
 {
-pos = (216,0);
+pos = (226,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 426;
 },
 {
 associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
@@ -259,15 +259,15 @@ pos = (16,0);
 ref = acutecomb;
 },
 {
-pos = (214,0);
+pos = (224,0);
 ref = jdotless;
 },
 {
-pos = (216,0);
+pos = (226,0);
 ref = acutecomb;
 }
 );
-width = 416;
+width = 426;
 }
 );
 unicode = 57650;

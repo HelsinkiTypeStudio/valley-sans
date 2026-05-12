@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Kcommaaccent.ss01;
+kernLeft = KO_H;
+kernRight = KO_K.ss01;
 layers = (
 {
 layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";

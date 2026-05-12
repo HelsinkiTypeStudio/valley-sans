@@ -191,15 +191,15 @@ pos = (72,200);
 ref = acutecomb;
 },
 {
-pos = (250,0);
+pos = (246,0);
 ref = J;
 },
 {
-pos = (604,200);
+pos = (600,200);
 ref = acutecomb;
 }
 );
-width = 772;
+width = 768;
 },
 {
 associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
@@ -214,15 +214,15 @@ pos = (72,200);
 ref = acutecomb;
 },
 {
-pos = (250,0);
+pos = (246,0);
 ref = J;
 },
 {
-pos = (604,200);
+pos = (600,200);
 ref = acutecomb;
 }
 );
-width = 772;
+width = 768;
 },
 {
 associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
@@ -237,15 +237,15 @@ pos = (72,200);
 ref = acutecomb;
 },
 {
-pos = (250,0);
+pos = (246,0);
 ref = J;
 },
 {
-pos = (604,200);
+pos = (600,200);
 ref = acutecomb;
 }
 );
-width = 772;
+width = 768;
 },
 {
 associatedMasterId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
@@ -260,15 +260,15 @@ pos = (72,200);
 ref = acutecomb;
 },
 {
-pos = (250,0);
+pos = (246,0);
 ref = J;
 },
 {
-pos = (604,200);
+pos = (600,200);
 ref = acutecomb;
 }
 );
-width = 772;
+width = 768;
 }
 );
 unicode = 57651;

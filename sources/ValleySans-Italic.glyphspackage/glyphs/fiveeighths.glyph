@@ -46,11 +46,11 @@ pos = (500,0);
 ref = fraction;
 },
 {
-pos = (666,0);
+pos = (667,0);
 ref = eight.dnom;
 }
 );
-width = 1103;
+width = 1104;
 },
 {
 layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";

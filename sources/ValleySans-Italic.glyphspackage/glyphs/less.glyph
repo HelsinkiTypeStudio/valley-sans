@@ -1,5 +1,6 @@
 {
 glyphname = less;
+kernLeft = KO_less;
 layers = (
 {
 background = {

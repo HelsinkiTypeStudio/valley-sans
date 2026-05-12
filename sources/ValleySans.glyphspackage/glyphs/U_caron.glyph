@@ -1,0 +1,60 @@
+{
+glyphname = Ucaron;
+kernLeft = KO_U;
+kernRight = KO_U;
+layers = (
+{
+layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (177,200);
+ref = caroncomb;
+}
+);
+width = 709;
+},
+{
+layerId = "314FA556-6FE4-424B-AF5B-2D35309D671D";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (154,200);
+ref = caroncomb;
+}
+);
+width = 784;
+},
+{
+layerId = "DCE91482-FC59-42AE-A233-C3C02A49011D";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (207,200);
+ref = caroncomb;
+}
+);
+width = 709;
+},
+{
+layerId = "FBDCCEBB-B86D-416E-BD81-A33E0038A6F0";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (176,200);
+ref = caroncomb;
+}
+);
+width = 784;
+}
+);
+unicode = 467;
+}

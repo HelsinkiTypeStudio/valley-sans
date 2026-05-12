@@ -1,6 +1,6 @@
 {
 glyphname = otilde;
-kernLeft = KO_odieresis;
+kernLeft = KO_egrave;
 kernRight = KO_o;
 layers = (
 {

@@ -1,5 +1,6 @@
 {
 glyphname = divide;
+kernRight = KO_plus;
 layers = (
 {
 background = {

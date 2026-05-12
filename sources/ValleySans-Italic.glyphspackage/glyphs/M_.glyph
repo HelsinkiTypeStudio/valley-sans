@@ -4,6 +4,16 @@ kernLeft = KO_M;
 kernRight = KO_M;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (476,0);
+},
+{
+name = top;
+pos = (476,720);
+}
+);
 background = {
 shapes = (
 {
@@ -82,6 +92,16 @@ nodes = (
 width = 952;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (514,0);
+},
+{
+name = top;
+pos = (514,720);
+}
+);
 background = {
 shapes = (
 {
@@ -147,6 +167,16 @@ nodes = (
 width = 1027;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (463,0);
+},
+{
+name = top;
+pos = (603,720);
+}
+);
 background = {
 shapes = (
 {
@@ -212,6 +242,16 @@ nodes = (
 width = 1027;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (425,0);
+},
+{
+name = top;
+pos = (565,720);
+}
+);
 background = {
 shapes = (
 {

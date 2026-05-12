@@ -82,7 +82,6 @@ width = 694;
 );
 unicode = 8722;
 userData = {
-KernOnName = minus;
 KernOnSpecialSpacing = {
 L = math;
 R = math;

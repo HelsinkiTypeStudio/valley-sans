@@ -1,7 +1,7 @@
 {
 color = 0;
 glyphname = etilde;
-kernLeft = KO_odieresis;
+kernLeft = KO_egrave;
 kernRight = KO_eacute;
 layers = (
 {
