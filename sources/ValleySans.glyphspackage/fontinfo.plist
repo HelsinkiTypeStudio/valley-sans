@@ -10,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde Z Zacute Zcaron Zdotaccent Saltillo K.ss01 Kcaron.ss01 Kcommaaccent.ss01 R.ss01 Racute.ss01 Rcaron.ss01 Rcommaaccent.ss01";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron Gstroke H Hbar Hcaron Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ymacron Ytilde Z Zacute Zcaron Zdotaccent Saltillo K.ss01 Kcaron.ss01 Kcommaaccent.ss01 R.ss01 Racute.ss01 Rcaron.ss01 Rcommaaccent.ss01";
 name = Uppercase;
 },
 {
@@ -53,6 +53,19 @@ value = "16,17";
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "meta Table";
+value = (
+{
+data = Latn;
+tag = dlng;
+},
+{
+data = Latn;
+tag = slng;
+}
+);
 },
 {
 name = "Axis Mappings";
@@ -129,12 +142,12 @@ sub parenleft C parenright by copyright;
 tag = liga;
 },
 {
-automatic = 1;
 code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub j' @CombiningTopAccents by jdotless;
+	sub iogonek' @CombiningTopAccents by iogonekdotless;
 } ccmp_DFLT_1;
 
 lookup ccmp_latn_1 {
@@ -22199,6 +22212,10 @@ value = "Helsinki Type Studio";
 {
 key = manufacturerURL;
 value = "https://helsinkitypestudio.com/";
+},
+{
+key = vendorID;
+value = "HTS ";
 }
 );
 settings = {

@@ -1,4 +1,5 @@
 {
+color = 6;
 glyphname = longs;
 kernLeft = KO_i;
 kernRight = KO_longs;

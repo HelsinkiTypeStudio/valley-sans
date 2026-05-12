@@ -10,7 +10,7 @@ The Moomins, beloved characters created by Tove Jansson, are known for wit, warm
 
 ![Valley Sans sample](documentation/valley-sans-flotsam.webp)
 
-Jansson produced a plethora of lettering in many styles. However the sans-serif lettering is always uppercase only. The style is sturdy and often includes slightly flared terminals, which gave a very clear direction for Valley Sans. To build a complete contemporary family, the lowercase and broader stylistic system were complemented with compatible historical models. The design team focused on late-1800s American modern gothic typefaces, chosen for their suitable warmth, practicality, and expressive charm, and also because of a surprising oblique connection to the Moomins. In the Finnish archipelago, where Jansson spent most summers, cargo crates and other branded pieces of driftwood have washed ashore over time. This inspired the idea of flotsam, where distant typographic influences arrive by sea and settle into local visual culture, becoming part of the conceptual foundation of Valley Sans.
+Jansson produced a plethora of lettering in many styles. However the sans-serif lettering is always uppercase. The style is sturdy and often includes slightly flared terminals, which gave a very clear direction for Valley Sans. To build a complete contemporary family, the lowercase and broader stylistic system were complemented with compatible historical models. The design team focused on late-1800s American modern gothic typefaces, chosen for their suitable warmth, practicality, and expressive charm, and also because of a surprising oblique connection to the Moomins. In the Finnish archipelago, where Jansson spent most summers, cargo crates and other branded pieces of driftwood have washed ashore over time. This inspired the idea of flotsam, where distant typographic influences arrive by sea and settle into local visual culture, becoming part of the conceptual foundation of Valley Sans.
 
 The result is a typeface rooted in heritage and storytelling, designed for clarity, rhythm, and usability across styles.
 
@@ -30,3 +30,7 @@ Images courtesy of Moomin Characters Ltd.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  
 See `OFL.txt` and [https://openfontlicense.org](https://openfontlicense.org)
+
+## Further development
+
+- A specimen minisite should be developed and added to the metadata.pb minisite_url:
