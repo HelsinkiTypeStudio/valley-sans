@@ -2,7 +2,7 @@
 
 # Valley Sans
 
-Valley Sans is a clear, versatile typeface developed for Moomin Characters.
+Valley Sans is a clear, versatile typeface developed for the Moomin Company.
 
 The design draws from Tove Jansson's original lettering, the typographic landscape of her era, and details from life in the Finnish archipelago.
 
@@ -24,7 +24,7 @@ The family is currently developed for Latin-script use and is intended to suppor
 
 ![Valley Sans styles](documentation/valley-sans-styles.webp)
 
-Images courtesy of Moomin Characters.
+Images courtesy of Moomin Characters Ltd.
 
 ## Authors
 
