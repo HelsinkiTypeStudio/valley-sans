@@ -1,4 +1,4 @@
-![Valley Sans overview](documentation/valley-sans.webp)
+Valley Sans overview
 
 # Valley Sans
 
@@ -6,38 +6,27 @@ Valley Sans is a clear, versatile typeface developed for the Moomin Company.
 
 The design draws from Tove Jansson's original lettering, the typographic landscape of her era, and details from life in the Finnish archipelago.
 
-The Moomins, beloved characters created by Tove Jansson, are known for wit, warmth, and timeless charm. Valley Sans translates that spirit into a contemporary type system for brand communication, publishing, and digital interfaces while preserving a distinct connection to the Moomin visual world.
+The Moomins, beloved characters created by Tove Jansson, are known for wit, warmth, and charm. Valley Sans translates that spirit into a contemporary type system for brand communication, publishing, and digital interfaces while preserving a distinct connection to the Moomin visual world.
 
-![Valley Sans sample](documentation/valley-sans-flotsam.webp)
+Valley Sans sample
 
-A central challenge in developing the typeface was that Jansson's lettering references are primarily uppercase. To build a complete contemporary family, the lowercase and broader stylistic system were developed through archival research into compatible historical models. The design team focused on late-1800s American modern gothic typefaces, chosen for their warmth, practicality, and expressive charm.
-
-This historical direction also reflects the archipelago setting connected to the Moomin world. In the Finnish archipelago, American letterforms can be seen on cargo crates and other objects that have drifted ashore over time. This idea of flotsam, where distant typographic influences arrive by sea and settle into local visual culture, became part of the conceptual foundation of Valley Sans.
+Jansson produced a plethora of lettering in many styles. However the sans-serif lettering is always uppercase only. The style is sturdy and often includes slightly flared terminals, which gave a very clear direction for Valley Sans. To build a complete contemporary family, the lowercase and broader stylistic system were complemented with compatible historical models. The design team focused on late-1800s American modern gothic typefaces, chosen for their suitable warmth, practicality, and expressive charm, and also because of a surprising oblique connection to the Moomins. In the Finnish archipelago, where Jansson spent most summers, cargo crates and other branded pieces of driftwood have washed ashore over time. This inspired the idea of flotsam, where distant typographic influences arrive by sea and settle into local visual culture, becoming part of the conceptual foundation of Valley Sans.
 
 The result is a typeface rooted in heritage and storytelling, designed for clarity, rhythm, and usability across styles.
 
-![Valley Sans character mix](documentation/valley-sans-character-mix.webp)
+Valley Sans character mix
 
-Valley Sans is delivered as a variable family with Weight and Italic axes, covering styles from Thin to Black in both roman and italic. This structure provides a broad expressive range while keeping behavior consistent across editorial and interface contexts.
+Valley Sans is delivered as a variable-weight family, covering styles from Thin to Black in both roman and italic. This structure provides a broad expressive range while keeping behaviour consistent across editorial and interface contexts.
 
 The family is currently developed for Latin-script use and is intended to support a wide range of contemporary brand and publishing needs in digital and print environments.
 
-![Valley Sans styles](documentation/valley-sans-styles.webp)
+Valley Sans styles
 
 Images courtesy of Moomin Characters Ltd.
 
-## Authors
-
-- Niklas Ekholm
-- Helsinki Type Studio
-
-## Contributors
-
-- Lari Mörö
-
 ## Credits
 
-Valley Sans was designed by Niklas Ekholm for Moomin Characters in collaboration with Lari Mörö at Helsinki Type Studio.
+Valley Sans was designed for Moomin Characters by Niklas Ekholm in collaboration with Lari Mörö at Helsinki Type Studio.
 
 ## Building
 
@@ -52,4 +41,4 @@ To build locally:
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  
-See `OFL.txt` and https://openfontlicense.org
+See `OFL.txt` and [https://openfontlicense.org](https://openfontlicense.org)
