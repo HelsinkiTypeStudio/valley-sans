@@ -3,10 +3,12 @@ venv
 venv-test
 build.stamp
 proof
-fonts
 node_modules
 package-lock.json
 package.json
+!documentation/package.json
+!documentation/package-lock.json
+documentation/node_modules/
 master_ufo
 instance_ufos
 .ninja_log

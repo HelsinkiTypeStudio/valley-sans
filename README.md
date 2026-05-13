@@ -33,4 +33,16 @@ See `OFL.txt` and [https://openfontlicense.org](https://openfontlicense.org)
 
 ## Further development
 
-- A specimen minisite should be developed and added to the metadata.pb minisite_url:
+- Add **`minisite_url`** to `METADATA.pb` once a public specimen URL exists.
+
+### Specimen minisite
+
+Run the local specimen from **`documentation/`**:
+
+```bash
+cd documentation
+npm install
+npm run dev
+```
+
+Details: [documentation/README.md](documentation/README.md) and [documentation/MINISITE_PLAN.md](documentation/MINISITE_PLAN.md).
