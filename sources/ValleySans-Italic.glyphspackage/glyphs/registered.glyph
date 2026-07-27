@@ -1,6 +1,5 @@
 {
 glyphname = registered;
-kernLeft = KO_registered;
 layers = (
 {
 background = {

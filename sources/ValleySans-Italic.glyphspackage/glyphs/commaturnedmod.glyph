@@ -1,5 +1,7 @@
 {
 glyphname = commaturnedmod;
+kernLeft = KO_commaturnedmod;
+kernRight = KO_commaturnedmod;
 layers = (
 {
 layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";

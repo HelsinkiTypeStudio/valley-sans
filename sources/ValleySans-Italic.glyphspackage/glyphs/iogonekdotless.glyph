@@ -1,7 +1,6 @@
 {
 color = 6;
 glyphname = iogonekdotless;
-kernRight = KO_i;
 layers = (
 {
 anchors = (

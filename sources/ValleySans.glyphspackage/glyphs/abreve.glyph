@@ -1,7 +1,7 @@
 {
 glyphname = abreve;
 kernLeft = KO_aacute;
-kernRight = KO_aacute;
+kernRight = KO_a;
 layers = (
 {
 layerId = "B776B106-2DD7-46FB-8D98-8D891769F75E";

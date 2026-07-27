@@ -1,6 +1,6 @@
 {
 glyphname = edieresis;
-kernLeft = KO_egrave;
+kernLeft = KO_odieresis;
 kernRight = KO_eacute;
 layers = (
 {

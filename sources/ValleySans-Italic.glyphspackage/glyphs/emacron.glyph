@@ -1,6 +1,6 @@
 {
 glyphname = emacron;
-kernLeft = KO_egrave;
+kernLeft = KO_e;
 kernRight = KO_eacute;
 layers = (
 {
