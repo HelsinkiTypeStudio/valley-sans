@@ -36,7 +36,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (297,0);
+alignment = -1;
+pos = (408,37);
 ref = ogonekcomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (315,0);
+alignment = -1;
+pos = (360,-2);
 ref = ogonekcomb;
 }
 );

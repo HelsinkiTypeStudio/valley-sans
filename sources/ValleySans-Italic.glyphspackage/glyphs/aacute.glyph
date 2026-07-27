@@ -36,7 +36,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (198,0);
+alignment = -1;
+pos = (262,0);
 ref = acutecomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (199,0);
+alignment = -1;
+pos = (231,0);
 ref = acutecomb;
 }
 );

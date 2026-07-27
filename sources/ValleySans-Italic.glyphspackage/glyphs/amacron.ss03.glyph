@@ -36,7 +36,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (113,0);
+alignment = -1;
+pos = (49,0);
 ref = macroncomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (133,0);
+alignment = -1;
+pos = (101,0);
 ref = macroncomb;
 }
 );

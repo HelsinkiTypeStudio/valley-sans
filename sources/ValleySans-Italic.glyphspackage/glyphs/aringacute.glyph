@@ -42,11 +42,13 @@ shapes = (
 ref = a;
 },
 {
-pos = (114,0);
+alignment = -1;
+pos = (-61,180);
 ref = ringcomb;
 },
 {
-pos = (350,29);
+alignment = -1;
+pos = (236,29);
 ref = acutecomb;
 }
 );
@@ -59,11 +61,13 @@ shapes = (
 ref = a;
 },
 {
-pos = (93,0);
+alignment = -1;
+pos = (-342,116);
 ref = ringcomb;
 },
 {
-pos = (467,109);
+alignment = -1;
+pos = (374,109);
 ref = acutecomb;
 }
 );

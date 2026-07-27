@@ -36,7 +36,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (49,0);
+alignment = -1;
+pos = (113,0);
 ref = macroncomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a;
 },
 {
-pos = (101,0);
+alignment = -1;
+pos = (133,0);
 ref = macroncomb;
 }
 );

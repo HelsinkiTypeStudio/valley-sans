@@ -36,7 +36,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (102,0);
+alignment = -1;
+pos = (38,0);
 ref = gravecomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (124,0);
+alignment = -1;
+pos = (92,0);
 ref = gravecomb;
 }
 );

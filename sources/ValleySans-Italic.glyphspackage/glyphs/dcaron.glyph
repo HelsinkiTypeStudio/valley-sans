@@ -36,7 +36,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (617,0);
+alignment = -1;
+pos = (628,0);
 ref = caroncomb.alt;
 }
 );
@@ -49,6 +50,7 @@ shapes = (
 ref = d;
 },
 {
+alignment = -1;
 pos = (481,0);
 ref = caroncomb.alt;
 }

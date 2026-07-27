@@ -35,7 +35,8 @@ shapes = (
 ref = d.ss03;
 },
 {
-pos = (628,0);
+alignment = -1;
+pos = (617,0);
 ref = caroncomb.alt;
 }
 );
@@ -48,6 +49,7 @@ shapes = (
 ref = d.ss03;
 },
 {
+alignment = -1;
 pos = (481,0);
 ref = caroncomb.alt;
 }

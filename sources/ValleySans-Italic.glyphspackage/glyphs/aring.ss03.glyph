@@ -36,7 +36,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (157,0);
+alignment = -1;
+pos = (93,0);
 ref = ringcomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (146,0);
+alignment = -1;
+pos = (114,0);
 ref = ringcomb;
 }
 );

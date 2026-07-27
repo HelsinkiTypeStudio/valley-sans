@@ -36,7 +36,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (70,0);
+alignment = -1;
+pos = (6,0);
 ref = dieresiscomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (77,0);
+alignment = -1;
+pos = (45,0);
 ref = dieresiscomb;
 }
 );

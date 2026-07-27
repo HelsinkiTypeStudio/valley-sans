@@ -36,7 +36,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (408,37);
+alignment = -1;
+pos = (297,0);
 ref = ogonekcomb;
 }
 );
@@ -49,7 +50,8 @@ shapes = (
 ref = a.ss03;
 },
 {
-pos = (360,-2);
+alignment = -1;
+pos = (315,0);
 ref = ogonekcomb;
 }
 );
