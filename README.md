@@ -2,11 +2,11 @@
 
 Valley Sans is a clear, versatile typeface intended to work with editorial content, as well as lending a warm charm to user interfaces.
 
-The Moomins are beloved characters created by Tove Jansson, are known for wit, warmth, and charm. Valley Sans translates that spirit into a contemporary type system for brand communication, publishing, and digital interfaces while preserving a distinct connection to the Moomin visual world.
+The Moomins are beloved characters created by Tove Jansson, known for wit, warmth, and charm. Valley Sans translates that spirit into a contemporary type system for brand communication, publishing, and digital interfaces while preserving a distinct connection to the Moomin visual world.
 
 ![Valley Sans Sample: Flotsam](documentation/valley-sans-flotsam.webp)
 
-The design draws from Tove Jansson's original lettering, the typographic landscape of her era, and details from life in the Finnish archipelago.
+The design of the typeface draws from Tove Jansson's original lettering, the typographic landscape of her era, and details from life in the Finnish archipelago.
 
 Tove Jansson produced a plethora of lettering in many styles. The sans serif work is sturdy and often includes slightly flared terminals, which gave a very clear direction for Valley Sans. However the sans serif lettering is always uppercase.
 
