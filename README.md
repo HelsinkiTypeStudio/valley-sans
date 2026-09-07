@@ -32,7 +32,7 @@ The family is currently developed for Latin-script use and is intended to suppor
 
 ![Valley Sans Sample: Comet](documentation/valley-sans-comet.webp)
 
-Valley Sans was designed for Moomin Characters by Niklas Ekholm and Lari Mörö at Helsinki Type Studio.
+Valley Sans was designed for Moomin Characters by Niklas Ekholm and Lari Mörö at [Helsinki Type Studio](https://helsinkitypestudio.com).
 
 Images courtesy of Moomin Characters Ltd.
 
