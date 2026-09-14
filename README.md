@@ -2,6 +2,8 @@
 
 Valley Sans is a clear, versatile typeface intended to work with editorial content, as well as lending a warm charm to user interfaces.
 
+You can get the full font files from [Google Fonts – Valley Sans](https://fonts.google.com/specimen/Valley+Sans).
+
 The Moomins are beloved characters created by Tove Jansson, known for wit, warmth, and charm. Valley Sans translates that spirit into a contemporary type system for brand communication, publishing, and digital interfaces while preserving a distinct connection to the Moomin visual world.
 
 ![Valley Sans Sample: Flotsam](documentation/valley-sans-flotsam.webp)
